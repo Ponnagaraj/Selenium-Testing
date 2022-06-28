@@ -1,4 +1,4 @@
-package org.base.test;
+package org.base.test.copy;
 
 import java.awt.AWTException;
 import java.awt.Robot;
